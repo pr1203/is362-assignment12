@@ -1,1 +1,1 @@
-# IS-362-Sci-Kit-Learn
+# IS362 SciKit-Learn
